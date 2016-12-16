@@ -9,10 +9,10 @@ The models are composed and validated for the period from  January 1987 to Decem
 ##2. Data
 The dataset consists of 4 series of monthly data from January 1987 to December 2010:
 
-Bankruptcy rate
-Population
-Unemployment rate
-House Price Index
+* Bankruptcy rate
+* Population
+* Unemployment rate
+* House Price Index
 
 ![alt tag](https://github.com/qianmx/TimeSeries-Canadian-National-Bankruptcy-Rate/blob/master/plots/data1.png)
 ![alt tag](https://github.com/qianmx/TimeSeries-Canadian-National-Bankruptcy-Rate/blob/master/plots/data2.png)
