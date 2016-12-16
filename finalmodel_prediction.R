@@ -50,8 +50,8 @@ l  <-  pred.result.c$lower
 h  <-  pred.result.c$upper
 
 fit.predict.l <- fitted(m.co.3)
-fit.predict.l.ts <- ts(fit.predict, start = c(1987,1), frequency = 12)
-fit.l.ts <- window(fit.predict.ts, end=c(2010,12))
+fit.predict.l.ts <- ts(fit.predict.l, start = c(1987,1), frequency = 12)
+fit.l.ts <- window(fit.predict.l.ts, end=c(2010,12))
 pred.ts <- ts(pred, start=c(2011,1),frequency = 12)
 l.ts <- ts(l, start=c(2011,1),frequency = 12)
 h.ts <- ts(h, start=c(2011,1),frequency = 12)
