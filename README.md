@@ -14,4 +14,6 @@ Population
 Unemployment rate
 House Price Index
 
-![alt tag](https://github.com/qianmx/TimeSeries-Canadian-National-Bankruptcy-Rate/blob/master/plots/data_exploration.png)
+![alt tag](https://github.com/qianmx/TimeSeries-Canadian-National-Bankruptcy-Rate/blob/master/plots/data1.png)
+![alt tag](https://github.com/qianmx/TimeSeries-Canadian-National-Bankruptcy-Rate/blob/master/plots/data2.png)
+
