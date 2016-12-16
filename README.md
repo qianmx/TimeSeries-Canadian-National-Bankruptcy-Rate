@@ -1,5 +1,5 @@
 # Time Series: Canadian Bankruptcy Rates Forecasting
-**Key Word: Time Series Modeling(box-jenkins,exponential smoothing,vector autoregression), R
+**Key Word: Time Series Modeling(box-jenkins,exponential smoothing,vector autoregression), R**
 
 
 ##Introduction
