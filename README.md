@@ -18,8 +18,8 @@ The dataset consists of 4 series of monthly data from January 1987 to December 2
 ![alt tag](https://github.com/qianmx/TimeSeries-Canadian-National-Bankruptcy-Rate/blob/master/plots/data2.png)
 
 ##Model
-The detailed model builing process can be find in Report.pdf in this repository.
-The R code can be find in R_code repository.
+* The detailed model builing process can be find in Report.pdf in this repository.
+* The R scripts can be find in R_code repository.
 
 ##Forecast
 ![alt tag](https://github.com/qianmx/TimeSeries-Canadian-National-Bankruptcy-Rate/blob/master/plots/forecast.png)
